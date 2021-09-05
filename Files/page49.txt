@@ -1,0 +1,24 @@
+
+
+***************************
+
+
+When you reach the Melbourne airport, you find out that the next flight to Alice Springs leaves in four hours.
+"And it's booked solid," the ticket clerk tells you. "If you'd like to take it, you'll have to fly standby."
+"Standby?!" you cry. "But I have to get to Alice tonight!"
+"Why don't you see if there's a space on the mail plane?" she suggests. "Go to the last desk before baggage pickup."
+You hurry over to where she pointed. Sure enough, a mail flight destined for Alice Springs is about to leave.
+"It makes lots of stops," the man informs you. "You won'd arrive much before the regularly scheduled flight. And you won't be all that comfortable. But at least you'll make it tonight. Shall I enter your name on the passenger list?"
+
+
+***************************
+
+
+If you decide to take the mail plane, type 1.
+
+If you decide to take your chances and fly standby, press 2.
+
+
+
+
+

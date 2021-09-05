@@ -1,0 +1,24 @@
+***************************
+
+Later that morning, you're busily packing for your trip while your neighbor Waldo and Ned, your cat, look on.
+"What happens if your parents find out where you've gone?" Waldo asks nervously.
+"If you take good care of Ned and the house and keep quiet about my trip, they'll never find out," you answer.
+"What do I tell them if you're not home in three weeks?"
+"It won't matter," you reply with a smile, "because if I'm not home in three weeks, my parents will kill me."
+Waldo rolls his eyes. "How are you traveling to Alice Springs?" he wants to know.
+"I haven't made up my mind. The train is cheaper, but if I go that way I won't get therte til tomorrow morning. If I take a plane, I won't have any money left over, but I'll be in Alice by dinner."
+
+Beep, Beep!
+
+The taxi you called is announcing its arrival.
+"You've got to decide soon," Waldo points out.
+"I'll decide right now," you tell him.
+
+
+***************************
+
+
+If you decide to go to Alice Springs by train, type '1'.
+If you decide to go by plane, type '2'.
+
+

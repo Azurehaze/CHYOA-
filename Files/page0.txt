@@ -1,0 +1,9 @@
+***************************
+
+This program is adapted from a Choose Your Own Adventure book from 1988: "Terror In Australia", by Shannon Gilligan.
+
+It tells a story, in which you will be provided choices of the path you wish to take.
+
+After each page, you will be presented with a choice. You must type your preferred choice into the prompt in order to continue.
+
+***************************

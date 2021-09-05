@@ -1,0 +1,15 @@
+
+***************************
+
+You begin reading furiously, but you're so nervous that you can hardly make out the words. Something about uranium. A mention of Satyrion. And a mention of Infiltrator IV--whatever that is. It's impossible to tell what part your uncle plays in all this. Could the papers have anything to do with the trouble he's in?
+You wonder if you'd be able to understand these documents better with more time to study them. The odd little man is still asleep--you dart a glance at him to check--and it would be easy to leave the compartment with his precious papers. But what would happen if he discovered that they were missing?
+
+
+***************************
+
+
+If you decide to grab the papers, type'1'.
+
+If you decide to leave the papers for now and follow the man when you get off in Alice Springs, type '2'.
+
+

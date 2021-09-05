@@ -1,0 +1,12 @@
+***************************
+
+"A rescue? You think we'll be rescued? They don't even know where we went down. I never got to radio Alice. A rescue could take weeks!" you say.
+"Well," Ed replies, "the first rule in a situation like this is to stay with your plane." Then he passes out.
+You look around at the wrecked plane. Despite what Ed's just told you, you want desperately to find help. If you were alone, you'd do it in a second. Your only worry is leaving Ed, since he's sick and injured. On the other hand, if he doesn't get help soon, he could really be in trouble.
+
+***************************
+
+If you decide to risk leaving the plane and go in search of help, type '1'.
+If you decide to stay with the plane and hope for a rescue, type '2'.
+
+

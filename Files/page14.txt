@@ -1,0 +1,17 @@
+***************************
+
+You reach the dining car and order a double coffee milkshake. As you drink you forget the strange man. You're lost in daydreams of the artifacts you'll find with Gilroy and the mysteries that lie ahead, waiting to be unraveled.
+"Dining car's closing," a voice says.
+"Wha--what?" you ask, coming back to reality.
+"I said, the dining car's closing.  It's eleven o'clock," a waiter tells you.
+"Oh, yes. Sorry," you say, rubbing your eyes.  Outside, a dark, starry sky speeds past. You must have fallen asleep.
+You stand up, leave a tip on your table, and head back to your seat. Passing through the first-class cars, you spot the odd little man that you bumped into. He's alone in his compartment and appears to be sound asleep. His precious briefcase has fallen out of his grasp and opened. Papers are fanned out all over the floor near his feet.
+You feel a sudden urge to look at the papers.  Just what's so important about them? You glance stealthily up and down the corridor. No one is in sight, and if someone does come along, you could easily pretend you're picking up the papers. But what if the man wakes up and recognizes you? What if he's not asleep at all?
+
+
+***************************
+
+
+If you decide to look at the man's papers under the pretext of picking them up for him, type '1'.
+If you decide to leave his papers where they are, type '2'.
+
